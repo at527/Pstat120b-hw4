@@ -16,7 +16,7 @@ Bias
 : The difference between the expected value of the estimates to the actual value of what's being estimated.
 
 Mean square error
-: TODO
+: the average of the square of the distance between the estimator and its target parameter. Used to determine how well the estimator estimates the parameter.
 
 Absolute Error
 : TODO
