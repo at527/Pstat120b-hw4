@@ -16,16 +16,16 @@ Bias
 : The difference between the expected value of the estimates to the actual value of what's being estimated.
 
 Mean square error
-: the average of the square of the distance between the estimator and its target parameter. Used to determine how well the estimator estimates the parameter.
+: The average of the square of the distance between the estimator and its target parameter. Used to determine how well the estimator estimates the parameter.
 
 Absolute Error
-: TODO
+: The differene between the estimator and the actual value of the parameter.
 
 Unbiased
-: TODO
+: When the difference between the estimator and the parameter being estimated.
 
 Consistent
-: TODO
+: An estimator is consistent when as the number of samples approaches infinity, the 
 
 ---
 
