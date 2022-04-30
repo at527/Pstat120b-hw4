@@ -13,7 +13,7 @@ Estimand
 ## Let ${\hat{\theta}}$ be an estimator.
 
 Bias
-: TODO
+: The difference between the expected value of the estimates to the actual value of what's being estimated.
 
 Mean square error
 : TODO
